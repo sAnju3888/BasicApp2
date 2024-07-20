@@ -1,0 +1,12 @@
+C:\Users\A2775935\source\repos\NullExample\EmpLib\bin\Debug\net6.0\EmpLib.deps.json
+C:\Users\A2775935\source\repos\NullExample\EmpLib\bin\Debug\net6.0\EmpLib.dll
+C:\Users\A2775935\source\repos\NullExample\EmpLib\bin\Debug\net6.0\ref\EmpLib.dll
+C:\Users\A2775935\source\repos\NullExample\EmpLib\bin\Debug\net6.0\EmpLib.pdb
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.csproj.AssemblyReference.cache
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.AssemblyInfoInputs.cache
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.AssemblyInfo.cs
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.dll
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\ref\EmpLib.dll
+C:\Users\A2775935\source\repos\NullExample\EmpLib\obj\Debug\net6.0\EmpLib.pdb
