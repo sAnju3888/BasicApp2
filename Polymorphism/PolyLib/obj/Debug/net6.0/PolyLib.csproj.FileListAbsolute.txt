@@ -1,0 +1,12 @@
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\bin\Debug\net6.0\PolyLib.deps.json
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\bin\Debug\net6.0\PolyLib.dll
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\bin\Debug\net6.0\ref\PolyLib.dll
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\bin\Debug\net6.0\PolyLib.pdb
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.csproj.AssemblyReference.cache
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.AssemblyInfoInputs.cache
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.AssemblyInfo.cs
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.csproj.CoreCompileInputs.cache
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.dll
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\ref\PolyLib.dll
+C:\Users\A2775935\source\repos\Polymorphism\PolyLib\obj\Debug\net6.0\PolyLib.pdb
