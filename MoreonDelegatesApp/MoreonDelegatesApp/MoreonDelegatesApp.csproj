@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <StartupObject>MoreonDelegatesApp.WorkingWithObjects</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GenericLib">
+      <HintPath>..\..\..\repos\GenericDemo\GenericLib\bin\Debug\net6.0\GenericLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
